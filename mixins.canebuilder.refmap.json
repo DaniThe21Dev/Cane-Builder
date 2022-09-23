@@ -1,0 +1,19 @@
+{
+  "mappings": {
+    "com/jelly/CaneBuilder/mixins/MinecraftMixin": {
+      "sendClickBlockToController": "Lnet/minecraft/client/Minecraft;func_147115_a(Z)V"
+    }
+  },
+  "data": {
+    "notch": {
+      "com/jelly/CaneBuilder/mixins/MinecraftMixin": {
+        "sendClickBlockToController": "Lave;b(Z)V"
+      }
+    },
+    "searge": {
+      "com/jelly/CaneBuilder/mixins/MinecraftMixin": {
+        "sendClickBlockToController": "Lnet/minecraft/client/Minecraft;func_147115_a(Z)V"
+      }
+    }
+  }
+}
